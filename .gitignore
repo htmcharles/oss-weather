@@ -41,7 +41,6 @@ yarn-error.log*
 .cloud
 .project
 .gradle
-.env*
 !.env.ci
 .yarn
 tmp/
@@ -105,3 +104,4 @@ tesseract/**/*
 !tesseract/**/README.md
 /webpdfviewer/**/*.css
 /app/assets/**/*.html
+config.bat
