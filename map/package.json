@@ -1,8 +1,8 @@
 {
   "name": "map",
   "scripts": {
-    "build": "webpack --mode production",
-    "start": "node api.js && webpack serve --mode development"
+    "build": "node init && webpack --mode production",
+    "start": "node init && webpack serve --mode development"
   },
   "dependencies": {
     "@babel/core": "^7.24.9",
