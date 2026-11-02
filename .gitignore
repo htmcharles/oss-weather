@@ -105,3 +105,4 @@ tesseract/**/*
 /webpdfviewer/**/*.css
 /app/assets/**/*.html
 config.bat
+.vscode/tasks.json
