@@ -63,3 +63,4 @@ dist
 App_Resources/iOS/Settings.bundle/**/Root.strings
 App_Resources/iOS/Settings.bundle/*.lproj/Root.strings
 config.bat
+.vscode/tasks.json
